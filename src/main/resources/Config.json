@@ -1,0 +1,14 @@
+{
+  "header": {
+    "created_by": "Haranath",
+    "created_date": "20200115"
+  },
+  "body": {
+    "replace_null_value": {
+      "course_id": "NO",
+      "course_name": "NO",
+      "author_name": "YES",
+      "no_of_reviews": "NO"
+    }
+  }
+}
